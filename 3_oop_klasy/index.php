@@ -1,0 +1,2 @@
+<?php
+//stworzenie klasy produkt
